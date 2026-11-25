@@ -3,6 +3,8 @@
 Based on the profile of VacuGlide_A_10mm_38mm_TPU85A_0 (solid of revolution around Z, bottom at z=0).
 Changing the inner diameter only moves the inner bead (R4.5) and its bottom chamfer radially;
 all other dimensions stay the same (matches the 41 mm version modelled in SolidWorks).
+
+This code was generated with AI (Claude by Anthropic).
 """
 import math
 import os
