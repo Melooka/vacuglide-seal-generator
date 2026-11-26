@@ -2,7 +2,7 @@
 
 Generates the **VacuGlide** seal ring (TPU 85A) with any inner diameter as **STL** (for 3D printing) and/or **STEP** (real CAD geometry for SolidWorks etc.).
 
-> **Note:** The code in this repository was generated with AI (Claude by Anthropic), based on my own seal design. Check the generated parts before use.
+> **Note:** The code in this repository was generated with AI (Claude by Anthropic), based on my version of the seal (see Credits below). Check the generated parts before use.
 
 **Credits:** The seal design is based on a design by [iambriansloan](https://www.reddit.com/user/iambriansloan/).
 
