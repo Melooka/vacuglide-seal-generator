@@ -4,7 +4,8 @@ Based on the profile of VacuGlide_A_10mm_38mm_TPU85A_0 (solid of revolution arou
 Changing the inner diameter only moves the inner bead (R4.5) and its bottom chamfer radially;
 all other dimensions stay the same (matches the 41 mm version modelled in SolidWorks).
 
-Seal design based on a design by iambriansloan (https://www.reddit.com/user/iambriansloan/).
+Based on iambriansloan's design (https://www.reddit.com/user/iambriansloan/).
+Original files: https://www.dropbox.com/scl/fo/9rbktkhqfs3i6n25vxf9t/AA9m-UY2DuIZCL2yi-I_n0g?rlkey=sszfpzpr0vwgbqb4awikwhkxt&dl=0
 This code was generated with AI (Claude by Anthropic).
 """
 import math
