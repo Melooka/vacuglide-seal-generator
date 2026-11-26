@@ -4,6 +4,8 @@ Generates the **VacuGlide** seal ring (TPU 85A) with any inner diameter as **STL
 
 > **Note:** The code in this repository was generated with AI (Claude by Anthropic), based on my own seal design. Check the generated parts before use.
 
+**Credits:** The seal design is based on a design by [iambriansloan](https://www.reddit.com/user/iambriansloan/).
+
 The part is a solid of revolution. Changing the inner diameter moves only the inner bead (R4.5) and its bottom chamfer; all other dimensions stay the same:
 
 | | |
